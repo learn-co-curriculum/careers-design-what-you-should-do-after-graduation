@@ -51,21 +51,21 @@ For a longer list, check out [64 People You Should Know in Design](https://mediu
 
 **Newsletters**
 
-https://alistapart.com/
-https://www.fastcompany.com/co-design
-https://sidebar.io/
-https://www.underconsideration.com/brandnew/
-http://interactions.acm.org/
-https://www.commarts.com/
+- https://alistapart.com/
+- https://www.fastcompany.com/co-design
+- https://sidebar.io/
+- https://www.underconsideration.com/brandnew/
+- http://interactions.acm.org/
+- https://www.commarts.com/
 
 **Medium**
 
 Just like in twitter, follow design leaders and organizations on Medium. This is a great way to keep up to date on trends and stay motivated.
-https://medium.com/topic/design
-https://medium.com/@101 or https://uxplanet.org/
-https://medium.com/@jasonfried
-https://medium.com/@InVisionApp
-https://medium.com/@scottbelsky
+- https://medium.com/topic/design
+- https://medium.com/@101 or https://uxplanet.org/
+- https://medium.com/@jasonfried
+- https://medium.com/@InVisionApp
+- https://medium.com/@scottbelsky
 
 **Design Communities**
 
