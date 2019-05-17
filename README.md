@@ -32,23 +32,25 @@ Below are recommended podcasts:
 - [Design Details](http://spec.fm/podcasts/design-details)
 - [HOW Design Live](http://www.howdesign.com/how-design-live-podcast/)
 
-Twitter
+**Twitter**
 If you aren't sure who to follow, you can start by checking out the designers on this list:
 
-@zeldman – Jeffrey Zeldman of Happy Cog
-@shauninman – Shaun Inman
-@abduzeedo – Fabio Sasso of Abduzeedo
-@jessicawalsh – Jessica Walsh of Sagmeister Walsh
-@skrug – Steve Krug
-@jnd1er – Don Norman of nngroup.org
-@usabilitycounts – Patrick Neeman
-@lukew – Luke Wroblewski
-@dburka – Daniel Burka of Google Ventures
-@khoi – Khoi Vinh
-@chriscoyier – Chris Coyier of CSS Tricks and CodePen
+[@zeldman](https://twitter.com/zeldman) – Jeffrey Zeldman of [Happy Cog](http://www.happycog.com/)
+[@shauninman](https://twitter.com/shauninman) – Shaun Inman
+[@abduzeedo](http://twitter.com/abduzeedo) – Fabio Sasso of [Abduzeedo](http://www.abduzeedo.com/about)
+[@jessicawalsh](https://twitter.com/jessicawalsh) – Jessica Walsh of [Sagmeister Walsh](http://sagmeisterwalsh.com/)
+[@skrug](https://twitter.com/skrug) – Steve Krug
+[@jnd1er](https://twitter.com/jnd1er) – Don Norman of nngroup.org
+[@usabilitycounts](https://twitter.com/usabilitycounts) – Patrick Neeman
+[@lukew](https://twitter.com/lukew) – Luke Wroblewski
+[@dburka](https://twitter.com/dburka) – Daniel Burka of Google Ventures
+[@khoi](https://twitter.com/khoi) – Khoi Vinh
+[@chriscoyier](http://twitter.com/chriscoyier) – Chris Coyier of [CSS Tricks](http://css-tricks.com/) and [CodePen](http://codepen.io/)
 
-For a longer list, check out 64 People You Should Know in Design
-Newsletters
+For a longer list, check out [64 People You Should Know in Design](https://medium.com/tradecraft-traction/64-people-you-should-know-in-design-f28cf3c2cfaa#.vw9e5li2d).
+
+**Newsletters**
+
 https://alistapart.com/
 https://www.fastcompany.com/co-design
 https://sidebar.io/
@@ -56,7 +58,8 @@ https://www.underconsideration.com/brandnew/
 http://interactions.acm.org/
 https://www.commarts.com/
 
-Medium
+**Medium**
+
 Just like in twitter, follow design leaders and organizations on Medium. This is a great way to keep up to date on trends and stay motivated.
 https://medium.com/topic/design
 https://medium.com/@101 or https://uxplanet.org/
@@ -64,12 +67,14 @@ https://medium.com/@jasonfried
 https://medium.com/@InVisionApp
 https://medium.com/@scottbelsky
 
-Design Communities
+**Design Communities**
+
 Get your presence online even stronger by adding your work to some of these design communities. Get involved in the community be it going to events or giving feedback to other designers.
-Behance
-Krop
-AIGA
-Dribble
-Coroflot
-Meetups - find and attend networking and learning events near you.
-Linkedin - has some UX and UI focused groups that you can follow
+
+- Behance
+- Krop
+- AIGA
+- Dribble
+- Coroflot
+- Meetups - find and attend networking and learning events near you.
+- Linkedin - has some UX and UI focused groups that you can follow
