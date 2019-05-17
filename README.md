@@ -35,17 +35,17 @@ Below are recommended podcasts:
 **Twitter**
 If you aren't sure who to follow, you can start by checking out the designers on this list:
 
-[@zeldman](https://twitter.com/zeldman) – Jeffrey Zeldman of [Happy Cog](http://www.happycog.com/)
-[@shauninman](https://twitter.com/shauninman) – Shaun Inman
-[@abduzeedo](http://twitter.com/abduzeedo) – Fabio Sasso of [Abduzeedo](http://www.abduzeedo.com/about)
-[@jessicawalsh](https://twitter.com/jessicawalsh) – Jessica Walsh of [Sagmeister Walsh](http://sagmeisterwalsh.com/)
-[@skrug](https://twitter.com/skrug) – Steve Krug
-[@jnd1er](https://twitter.com/jnd1er) – Don Norman of nngroup.org
-[@usabilitycounts](https://twitter.com/usabilitycounts) – Patrick Neeman
-[@lukew](https://twitter.com/lukew) – Luke Wroblewski
-[@dburka](https://twitter.com/dburka) – Daniel Burka of Google Ventures
-[@khoi](https://twitter.com/khoi) – Khoi Vinh
-[@chriscoyier](http://twitter.com/chriscoyier) – Chris Coyier of [CSS Tricks](http://css-tricks.com/) and [CodePen](http://codepen.io/)
+- [@zeldman](https://twitter.com/zeldman) – Jeffrey Zeldman of [Happy Cog](http://www.happycog.com/)
+- [@shauninman](https://twitter.com/shauninman) – Shaun Inman
+- [@abduzeedo](http://twitter.com/abduzeedo) – Fabio Sasso of [Abduzeedo](http://www.abduzeedo.com/about)
+- [@jessicawalsh](https://twitter.com/jessicawalsh) – Jessica Walsh of [Sagmeister Walsh](http://sagmeisterwalsh.com/)
+- [skrug](https://twitter.com/skrug) – Steve Krug
+- [@jnd1er](https://twitter.com/jnd1er) – Don Norman of nngroup.org
+- [@usabilitycounts](https://twitter.com/usabilitycounts) – Patrick Neeman
+- [@lukew](https://twitter.com/lukew) – Luke Wroblewski
+- [@dburka](https://twitter.com/dburka) – Daniel Burka of Google Ventures
+- [@khoi](https://twitter.com/khoi) – Khoi Vinh
+- [@chriscoyier](http://twitter.com/chriscoyier) – Chris Coyier of [CSS Tricks](http://css-tricks.com/) and [CodePen](http://codepen.io/)
 
 For a longer list, check out [64 People You Should Know in Design](https://medium.com/tradecraft-traction/64-people-you-should-know-in-design-f28cf3c2cfaa#.vw9e5li2d).
 
